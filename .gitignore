@@ -27,7 +27,7 @@ db/*.sqlite3
 /cache
 /gems
 /config/secrets.yml
-
+/config/database.yml
 
 # Mac finder artifacts
 .DS_Store
