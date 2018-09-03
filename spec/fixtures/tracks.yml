@@ -1,0 +1,23 @@
+track_nurburgring:
+  country: Germany
+  name: nurburgring
+  timezone: CET 
+  surface_type: asphalt
+
+track_smp:
+  country: Australia
+  name: sydney_motorsport_park
+  timezone: Australia/Sydney
+  surface_type: gravel 
+
+track_cgvm:
+  country: Canada
+  name: circuit_gilles_villenaeuve_montreal
+  timezone: America/Montreal
+  surface_type: snow
+
+track_macau:
+  country: Macau
+  name: guia_circut
+  timezone: Asia/Macau
+  surface_type: asphalt
