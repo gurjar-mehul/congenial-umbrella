@@ -1,7 +1,7 @@
 Car.delete_all
-car_attrs = [ { name: "Subaru Impreza", max_speed: 280 },
-              { name: "Ford Shelby", max_speed: 250 },
-              { name: "Dodge Challenger", max_speed: 310 } ]
+car_attrs = [ { name: "Ford Figo", max_speed: 180 },
+              { name: "Honda Jazz", max_speed: 110 },
+              { name: "Toyota Innova", max_speed: 220 } ]
 Car.create car_attrs
 
 Track.delete_all

@@ -1,0 +1,14 @@
+ford_figo:
+  name: Ford Figo
+  slug: ford_figo
+  max_speed: 180
+
+honda_jazz:
+  name: Honda Jazz
+  slug: honda_jazz
+  max_speed: 110
+
+toyota_innova:
+  name: Toyota Innova
+  slug: toyota_innova
+  max_speed: 230
